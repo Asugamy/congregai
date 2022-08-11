@@ -1,6 +1,4 @@
 import streamlit as st
-import streamlit_card as stCard
-import streamlit.components.v1 as components
 
 with open('style.css') as estilo:
     st.markdown(f'<style>{estilo.read()}</style>', unsafe_allow_html=True)
