@@ -1,0 +1,40 @@
+/*"Made with Streamlit"*/
+.css-1q1n0ol{
+    display: none;
+}
+
+/*Menu Streamlit*/
+/* .css-fblp2m{
+    display: none;
+} */
+
+/*Título*/
+.css-10trblm{
+    text-align: center;
+    /* color: rgb(138, 140, 255); */
+    font-weight: bolder;
+}
+.css-eczf16{
+    display: none;
+}
+.css-12oz5g7{
+    padding: none;
+}
+
+
+/* Cards */
+.css-6awftf{
+    display: none;
+} 
+
+.css-1cpxqw2{
+    background: rgb(243, 70, 70);
+    color: white;
+    width: 100%;
+}
+
+.css-1cpxqw2:hover{
+    background: white;
+    color: rgb(243, 70, 70);
+    width: 100%;
+}
