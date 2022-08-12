@@ -1,12 +1,25 @@
+header{
+    display: none;
+}
+
+img{
+    width: 380px;
+    max-width: 100%;
+    max-height: 204px;
+}
+
 /*"Made with Streamlit"*/
 .css-1q1n0ol{
     display: none;
 }
-
-/*Menu Streamlit*/
-.css-fblp2m{
+.css-qri22k{
     display: none;
 }
+
+/*Menu Streamlit*/
+/* .css-fblp2m{
+    display: none;
+} */
 
 /*Título*/
 .css-10trblm{
@@ -37,8 +50,4 @@
     background: white;
     color: rgb(243, 70, 70);
     width: 100%;
-}
-
-.viewerBadge_container__1QSob {
-    display: none;
 }
