@@ -17,9 +17,12 @@ img{
 }
 
 /*Menu Streamlit*/
-/* .css-fblp2m{
+.css-fblp2m{
     display: none;
-} */
+}
+.viewerBadge_container__1QSob{
+    display: none;
+}
 
 /*Título*/
 .css-10trblm{
