@@ -2,7 +2,7 @@ import streamlit as st
 from informacoes import inforComuns
 # from streamlit_option_menu import option_menu
 
-# st.set_page_config(layout="wide")
+st.set_page_config(layout="wide")
 
 # with st.sidebar:
 #     choose = option_menu("App Gallery", ["About", "Photo Editing", "Project Planning", "Python e-Course", "Contact"],
