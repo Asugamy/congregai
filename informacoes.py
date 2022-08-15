@@ -27,7 +27,7 @@ def inforComuns(comum):
         'Monte Sião':['', '', '', 'img/monteSiao.jpg', ''],
         'Morrinhos':['', '', '', 'img/morrinhos.jpg', ''],
         'Nova América':['', '', '', 'img/semImagem.png', ''],
-        'Planalto':['', '', '', 'img/planalto.jpg   ', ''],
+        'Planalto':['', '', '', 'img/planalto.png', ''],
         'Renascença':['', '', '', 'img/renascenca.jpg', ''],
         'Roxo Verde':['', '', '', 'img/roxo.jpg', ''],
         'Sagrada Família':['', '', '', 'img/semImagem.png', ''],
